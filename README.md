@@ -62,7 +62,7 @@ The loop is stored in `{{ pico_search.results }}`.
 
 ## Licence
 
-CreativeCommons2.0 license: [CC BY](http://creativecommons.org/licenses/by/4.0/)
+MIT license: [MIT](http://opensource.org/licenses/MIT)
 
 You are free to share & remix this code only if you mention me as coder of this base.
 
