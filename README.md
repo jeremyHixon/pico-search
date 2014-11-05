@@ -64,9 +64,6 @@ The loop is stored in `{{ pico_search.results }}`.
 
 MIT license: [MIT](http://opensource.org/licenses/MIT)
 
-You are free to share & remix this code only if you mention me as coder of this base.
-
-
 ## Copyright
 
 © Copyright Jeremy Hixon 2014. All rights reserved.
